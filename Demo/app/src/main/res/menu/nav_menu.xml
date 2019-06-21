@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/fenlei"
+        android:checked="true"
+        android:title="分类"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/book_store"
+        android:checked="true"
+        android:title="书架"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/book"
+        android:checked="true"
+        android:title="扫描书籍"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/retur"
+        android:checked="true"
+        android:title="意见反馈"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/about_author"
+        android:checked="true"
+        android:title="关于作者"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/setting"
+        android:checked="true"
+        android:title="设置"
+        android:icon="@color/colorAccent"
+        tools:ignore="MenuTitle" />
+</menu>
